@@ -60,7 +60,6 @@ To stop everything, run:
 docker compose --profile demo down
 ```
 
-
 ## Instrumentation
 
 There is various data that is captured in this app. Some data is captured manually while other data is automatically
